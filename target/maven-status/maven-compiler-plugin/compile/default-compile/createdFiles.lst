@@ -1,0 +1,14 @@
+com/test/ambev/order_service/repository/PedidoRepository.class
+com/test/ambev/order_service/model/ProdutoRedis.class
+com/test/ambev/order_service/dto/ProdutoDTO.class
+com/test/ambev/order_service/controller/PedidoController.class
+com/test/ambev/order_service/model/Produto.class
+com/test/ambev/order_service/config/RedisConfig.class
+com/test/ambev/order_service/model/PedidoRedis.class
+com/test/ambev/order_service/repository/ProdutoRepository.class
+com/test/ambev/order_service/mapper/PedidoMapperImpl.class
+com/test/ambev/order_service/mapper/PedidoMapper.class
+com/test/ambev/order_service/model/Pedido.class
+com/test/ambev/order_service/OrderServiceApplication.class
+com/test/ambev/order_service/service/PedidoService.class
+com/test/ambev/order_service/dto/PedidoDTO.class

@@ -1,0 +1,13 @@
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/OrderServiceApplication.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/config/RedisConfig.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/controller/PedidoController.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/dto/PedidoDTO.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/dto/ProdutoDTO.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/mapper/PedidoMapper.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/model/Pedido.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/model/PedidoRedis.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/model/Produto.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/model/ProdutoRedis.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/repository/PedidoRepository.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/repository/ProdutoRepository.java
+/Users/rafael/IdeaProjects/order-service/src/main/java/com/test/ambev/order_service/service/PedidoService.java
